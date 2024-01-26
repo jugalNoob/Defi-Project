@@ -1,0 +1,394 @@
+ Alternative Of Banks -- > 
+Your Are Coding a DecentraLiza Banks --> 
+Difficulty -->
+code is Risky
+
+2::Finance
+
+::Lending
+
+::Flash Loans
+
+::Staking
+
+::Yield Farming
+
+::Trading
+
+::Insurance 
+
+::savings  
+
+::Borrowi Ng  
+
+
+Q what defi Advantages?
+
+Pseudonymous
+
+Transparency
+
+cost Efficiency
+
+Open All --> all bad boy
+
+
+Q what Defi series OverView 
+
+Ans:: Why Defi?
+
+Defi  developer RoadMap
+
+Defi Categories
+
+Cake vs unswap
+
+Defi Terminologies
+
+Trading
+
+Flash Loans
+
+Arbitrage
+
+Projects
+
+Q why we need DEfi for all User?
+
+Ans::
+
+
+Q  how to Become a defi Developer?
+Ans:: BillIon Dollar Industry  +  Alternative  +You are Coding DecentraLiza bank
+Difficulty Level High + Code is Riskey + High Salary
+
+
+...Defi Developer RoadMap 
+2::Finance
+
+::Lending
+
+::Flash Loans
+
+::Staking
+
+::Yield Farming
+
+::Trading
+
+::Insurance 
+
+::savings  
+
+::Borrowi Ng  
+
+interfaces
+libraries
+
+https://github.com/Uniswap
+
+
+Smart Contract  build
+
+Optimization
+
+Security
+
+Testing
+
+Auditing
+
+
+Q About Math's?
+Ans:Yes Fin -rech Industry
+
+the fintech Industry Short for Financial technology
+ Industry refers to Broad category Companies and technologies that 
+
+ Red Defi Contracts
+
+...Programming Language 
+
+Javascript 
+
+
+...Suggestion 
+
+How trading work  --> Buy Token  swaps FlashLons
+
+Token standerds -->  ERC 20 ERC721  ERC 1155
+
+Defi PlatFrroms Understanding --> UniSwap PanCake Aave
+
+
+Q what are the different Categories in Defi?
+
+Ans:: Lending and Borrowing  
+
+PlatForm These Allow user to lend their  CryptoCurrency Assets To  earn Interest or Borrow
+assets By providing collateral
+
+Examples Compound  , Aave  , MakerDao
+
+2::Decentralized Exchanges (Dexs):
+DecentraLiza Exchanges (Dexs)
+
+PlatForm ::These are exchange that operate without a centralized authority
+User can trade CryptoCurrency directly one another
+
+Example::Uniswap , SushiSwap , Pancake swaps
+
+
+3::Stablecoins
+Asstes ::These are CryptoCurrency Designed to have a stable  value often
+pegged to a reserve assest Like the Us Dollor
+
+Example ::USDC ,DAI ,USDT
+
+
+4::Yield Farming and Liquidity Mining;
+
+Concept::User provide Liquidity to a defi platfrom by depositing their assets and in return , 
+they receive rewards  or tOKENS
+EXMAPLE :: Yearn.Finance , Curve Finance
+
+5::Derivatives
+
+platfrom ::These Allow users to trad Financial instrumnets whoes value 
+is derived from an underlying asset(eq , future , options)
+
+exmaple:Synthetix ,dydx
+
+
+6::Asset Managment ::
+
+Platfroms ::These platfrom offer various investMent starategies for 
+managing crypto assests
+exmaple :: set Protocol , Index Coop
+
+
+7::Insurance::
+PlatForm::These Provide Insurance services for User to protect against Contract
+failures or ther Riskey
+Exmaples :Cover Protocol, Kyber Network , Nexus Murual
+
+8::Governance and Daos
+
+Concepts ::Decentralized Autonomus Organization (DAOS) are Organization
+resprested by rules  encoded as a computer program that is transparent contolled
+by Organization members
+Example:: MakerDao , Compound , Governance
+
+
+
+
+Q what order Book And Amm;
+Ans::
+order Book --> centralized exchange Like kucoin Binance 
+
+Amm --> DecentraLiza exchange  
+
+1::-centralized exchange
+
+centralized Exchanges (CEXs) are online platforms or marketplace that facilitate
+trading of various CryptoCurrency and digital assests thys are called centralized because
+they operate AS intermediaries that facilitate the exchange of assets betwween buyers and seller
+
+...Advantages of CEXs
+
+||user do not have to pay gas fees
+
+||High Liquidity 
+
+||lower bid /ask spread
+
+||fast trade
+
+
+...Order Book
+An  order Book is a real-time , continuously update list of Buy and sell order for
+particular Financial such as stock CryptoCurrency or Commodities on an exchange it displays
+the price at which trader are willing to buy and sell as well as the quantities they are willing to trade at those price
+
+https://www.binance.com/en/orderbook/BTC_USDT
+
+
+buy 1 || price  || Ammount btc  ||Total
+
+          28500price   * 6.25btc == 59usdt
+
+
+
+
+...In a tyical order Book , you'll find two side
+
+Buy side(bids)::This side list the price at which buyers are willing to purchase the asset
+and the corresponding quantites they want to buy
+
+sell side(Asks or Offer)::this side lists the price at which seller are wiling to sell the asset
+and the cooresponding quantites they want to sell;
+
+
+
+||||||||||||||||||||||
+
+DecentraLiza Exchanges
+
+..DecentraLiza exchange (DEXs) are platforms or Protocol that allow user trade
+CryptoCurrency directly with on another without the need for an intermeddairy 
+or centrakized
+
+
+...Advantages of DEXs|||||
+
+no gas fees for all transaction
+permissionless
+custody and control
+Security
+
+
+AMM (Automated Market Makers)
+exmaple -->uniswap pancake etc
+
+...Defi Amm
+
+Meaning
+
+Automated ... Automated means that the process is carried out by computer programs or algorithems
+without the need for manual intervention Automated System execute tasks decisions
+and respond for market condition based on predefined rules or parameters
+
+Market ...
+is Finance a market refers to platfrom or enviroment where asset are bought and sold ita place where buyers and seller
+come together to trading financial instrument like stocks bonds  commodities or in the case of CryptoCurrency
+digital assest;
+
+Maker...
+A MAKER IS typically someone who provide Liquidity toa Liquidity pool the involves
+adding their funds in the from of CryptoCurrency pairs the the pools
+
+
+
+
+Ans::on-Chain transaction 
+in a dex order Book operation are carried aout smart contract on the blockChain this 
+means every action such as placing an order cancelling an order or executing a trde \
+require an on-chain transaction and this wil lead high gas cost
+
+of-chain order Books
+
+there exist some exmaple of off-chain order book with on-Chain registration of tradin
+such as 1inch , swshiswap , and Dydx;
+
+
+
+Q what is history Amm;
+
+Ans::for on-Chain tarding we require Amm
+
+..Vitalik buterin proposed in 2026 the Impplementation on-chain Amm
+https://vitalik.ca/general/2021/05/30/amm_history.html#the-
+
+..Buterin's idea was first applied To AMMs  in 2017 in the bancor Protocal
+which allowed trades betwween the newtworks token (BNT) the protocol Token and
+othere ERC-20 tokens through specific smart tokens
+
+..Martin  koppelmann cam up with the constant probuct formula
+
+.. In Novermber 2018 uniswap v1 was lunched with the implemnetation of the constant product 
+formula and the Liquidity pool, and allowing trading between Eth and any other  ERC-20
+token
+
+..in January 2020 curve finance Launched a new AMM that was designed Exclusively
+to trading between Stablecoins with low price impact and high Efficiency
+
+
+..in Several moths laer in May 2021 uniswap v3 appeared and started offering an entirely Concept
+to liquidity provide concenttrated Liquidity
+
+
+
+Q what is constant product?
+ANS::Types of AMMs is algo how operate your code
+
+constant Product:--> Uniswap Amms algo
+
+Constant Sum --> Balancer
+
+Curve-base AMMs --> Curve Finance
+
+Hybrid AMMs --> sushiwap
+
+....constant Product -->this one of the earliest and most popular AMM models
+
+..constant Product --> it based on the conncept of maintaining of maintaining  a constant product of the two assets in liquidity pool
+
+
+Number of X token=100
+
+Number of Y toekn =200
+
+ASSUMING Liquidity pool Fee=0
+
+x*y=20000 [here 20000 is the constant]
+
+
+suppose a trader  wants to Buy 60 x tokens
+in order to buy 60 X token trader needs to deposit Y tokens
+AFETR  withdrawing 60 X Token in The Liquidity Pool we will have 40 x tokens
+
+
+40*y=20000
+y=2000/40
+y=500
+
+
+Number of Y Tokens Deposited By Trader=500-200=300
+After deposit Number of Y tokens =3000+200 =500
+x*y=40*50=20000
+
+
+Q what is Liquidity Pool?
+ANS::
+
+Liquidity --> CryptoCurrency --> Moneys
+
+Liquidity Pool --> It IS A Pool of Token (Usually two different Types) Locked
+is a smart Contract these Pool facilitate the Trading of Tokens withOut thee need for 
+intermediary
+
+Generally Liquidity Pools involves two Tokens often a popular CryptoCurrency Like Ethereim(ETH)
+and An thor token (e.q Stablecoins Like DAI or another CryptoCurrency Like Links
+)
+
+Uniswap And SushiSwap --> Etherum  Network
+
+Packcake Swap -->> Bnb Chain
+
+
+Working of Liquidity Pools
+
+..Providing Liquidity to Liquidity pool
+
+..Amm to maintain Price of the Tokens
+
+..Liquidity Provider  Are Rewarded For Providing Liquidity
+
+..Liquidity Pool Vs AMMs
+
+
+
+
+
+Q what is Slippage
+
+Ans:: Slippage = Expected price of Trade ` Actual Of trade
+
+
+
+
+
+Q what a Cefi Platforms
+
+ANS::Binance coinbase okk bitget  
+

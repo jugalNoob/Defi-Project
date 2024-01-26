@@ -1,0 +1,66 @@
+import React, { useEffect, useState } from 'react';
+import './style/form.css';
+
+function Form() {
+const [filled, setFilled] = useState(0);
+const [isRunning , setIsRunning]=useState(0);
+  useEffect(() => {
+    let timer;
+
+    if (filled < 100 && isRunning) {
+      timer = setTimeout(() => {
+        setFilled((prevFilled) => {
+          const newFilled = prevFilled + 2;
+          if (newFilled >= 100) {
+            // Check if the newFilled value is 100 or more
+            alert('Progress completed!');
+            console.log("jugal sahrma")
+          }
+          return newFilled <= 100 ? newFilled : 100; // Ensure filled doesn't exceed 100%
+        });
+      }, 100);
+    }
+    return () => clearTimeout(timer);
+  }, [filled , isRunning]);
+  return (
+    <div>
+      <div className="progressbar">
+        <div
+          style={{
+            height: '100%',
+            width: `${filled}%`,
+            backgroundColor: '#a66cff',
+            transition: 'width 0.5s',
+          }}
+        ></div>
+        <span className="progressbarpresc">{filled}%</span>
+      </div>
+
+      <button onClick={()=>{setIsRunning(true)}}>clickme</button>
+    </div>
+  );
+}
+
+export default Form;
+
+
+////AND 
+
+.progressbar{
+    position: relative;
+    overflow: hidden;
+    width: 350px;
+    height: 35px;
+    border-radius:5px;
+    background-color: #eee;
+}
+
+.progressbarpresc{
+    font-weight: 600;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+    color: #fff200;
+    text-shadow: -1px 0 #555 , 0 1px #555 , 1px 0 #555 , 0 -1px #555;
+}
